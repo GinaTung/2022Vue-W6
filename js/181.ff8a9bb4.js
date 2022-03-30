@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknew_project_w6"]=self["webpackChunknew_project_w6"]||[]).push([[181],{741:function(n,t,e){e.r(t),e.d(t,{default:function(){return w}});var r=e(252),c=e(128);const s={class:"container"},u=(0,r._)("h2",{class:"text-start mt-4"},"後臺優惠券",-1),a=(0,r._)("img",{src:c,alt:""},null,-1),i=[u,a];function o(n,t){return(0,r.wg)(),(0,r.iD)("div",s,i)}var l=e(744);const p={},f=(0,l.Z)(p,[["render",o]]);var w=f},128:function(n,t,e){n.exports=e.p+"img/404.0034e707.png"}}]);
+//# sourceMappingURL=181.ff8a9bb4.js.map
